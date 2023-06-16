@@ -1,5 +1,5 @@
 # About Me:
-I'm Cadastral and Geodetic Engineer with a Master's degree in Information and Communication Sciences, with over 4 years of professional experience in the management, analysis, and visualization of geospatial data. I possess advanced skills in artificial intelligence, software development, and data analysis. I'm expert in applying information and communication technologies to solve complex geospatial problems
+I'm Cadastral and Geodesist Engineer with a Master's degree in Information and Communication Sciences, with over 4 years of professional experience in the management, analysis, and visualization of geospatial data. I possess advanced skills in artificial intelligence, software development, and data analysis. I'm expert in applying information and communication technologies to solve complex geospatial problems
 
 - How to reach me **jofernandezc@correo.udistrital.edu.co**
 
