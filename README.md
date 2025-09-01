@@ -57,13 +57,3 @@ Me caracterizo por:
 
 
 ---
-
-## 🌐 Connect with me  
-<p align="left">
-  <a href="https://github.com/fernandezjavier480" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25" />
-  </a>
-</p>
