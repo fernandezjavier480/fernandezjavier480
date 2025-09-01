@@ -53,14 +53,8 @@ Me caracterizo por:
 ---
 
 ## 🌐 Redes Profesionales  
-<p align="left">
-  <a href="https://github.com/fernandezjavier480" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="25" />
-  </a>
-  <a href="www.linkedin.com/in/javier-fernandezds" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandezjavier480)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-fernandezds/)
 
 ---
 
