@@ -13,8 +13,8 @@ Me caracterizo por:
 ---
 
 ## 🎓 Formación Académica  
-- **Especialización en Inteligencia Artificial** – [Nombre de la Universidad o Institución]  
-- **Maestría en Ciencias de la Información y la Comunicación** – Universidad Nacional de Colombia  
+- **Especialización en Inteligencia Artificial** – Universidad Nacional de Colombia   
+- **Maestría en Ciencias de la Información y la Comunicación** – Universidad Distrital Francisco José de Caldas  
 - **Ingeniería Catastral y Geodesia** – Universidad Distrital Francisco José de Caldas  
 
 ---
